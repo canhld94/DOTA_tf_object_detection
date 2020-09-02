@@ -1,0 +1,6 @@
+.vscode
+dataset
+pre_train_models/*
+annotations/*.record
+models/
+pre_trained_models/
